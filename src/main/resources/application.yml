@@ -1,0 +1,7 @@
+spring:
+  jackson:
+    # \u5168\u5C40\u5E8F\u5217\u5316Date\u683C\u5F0F\u5316\u914D\u7F6E \u5BF9LocalDateTime\u65E0\u6548
+    date-format: yyyy-MM-dd HH:mm:ss
+    # ???
+#    deserialization:
+#      fail_on_numbers_for_enums: false
